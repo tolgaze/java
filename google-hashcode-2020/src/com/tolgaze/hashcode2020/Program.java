@@ -26,12 +26,12 @@ public class Program {
 
 	public static void main(String[] args) throws FileNotFoundException, IOException {
 
-		String name = "C:\\SpringWorkspace\\google-hashcode-2020\\files\\a_example"; 
-//		String name = "C:\\SpringWorkspace\\google-hashcode-2020\\files\\b_read_on"; 
-//		String name = "C:\\SpringWorkspace\\google-hashcode-2020\\files\\c_incunabula"; 
-//		String name = "C:\\SpringWorkspace\\google-hashcode-2020\\files\\d_tough_choices"; 
-//		String name = "C:\\SpringWorkspace\\google-hashcode-2020\\files\\e_so_many_books"; 
-//		String name = "C:\\SpringWorkspace\\google-hashcode-2020\\files\\f_libraries_of_the_world"; 
+		String name = "C:\\DEVEL\\Workspaces\\java\\google-hashcode-2020\\files\\a_example"; 
+//		String name = "C:\\DEVEL\\Workspaces\\java\\google-hashcode-2020\\files\\b_read_on"; 
+//		String name = "C:\\DEVEL\\Workspaces\\java\\google-hashcode-2020\\files\\c_incunabula"; 
+//		String name = "C:\\DEVEL\\Workspaces\\java\\google-hashcode-2020\\files\\d_tough_choices"; 
+//		String name = "C:\\DEVEL\\Workspaces\\java\\google-hashcode-2020\\files\\e_so_many_books"; 
+//		String name = "C:\\DEVEL\\Workspaces\\java\\google-hashcode-2020\\files\\f_libraries_of_the_world"; 
 		BufferedReader fr = new BufferedReader(new FileReader(name + ".txt"));
 		totalSignup = 0;
 		finalScore = 0;
