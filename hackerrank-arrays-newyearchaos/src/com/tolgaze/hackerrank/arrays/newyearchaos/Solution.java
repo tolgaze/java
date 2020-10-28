@@ -1,4 +1,4 @@
-package com.tolgaze.hackerrank.newyearchaos.com.tolgaze.hackerrank.arrays.newyearchaos;
+package com.tolgaze.hackerrank.arrays.newyearchaos;
 
 import java.util.*;
 
